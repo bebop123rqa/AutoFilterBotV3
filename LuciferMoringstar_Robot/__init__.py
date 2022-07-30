@@ -30,8 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Fiction Bot
     
-➥ Creator : [𝖇𝖊𝖇𝖔𝖕 ...](
-https://t.me/GINSAAAN)
+➥ Creator : [𝖇𝖊𝖇𝖔𝖕 ...](https://t.me/GINSAAAN)
 
 ➥ Language : Python3
 
