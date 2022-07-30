@@ -308,7 +308,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('Fiction-recs', url=f'https://t.me/fivtiontvgroup')
+                        InlineKeyboardButton('Fiction-recs', url=f'https://t.me/fictiontvgroup')
                     ]
                     ]
                 
