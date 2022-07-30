@@ -15,9 +15,9 @@ Basic Commads
 
 /start :- check am Alive
 
-Video Tutorial : [Click here](https://rb.gy/zw1tdk)
+Inline Tutorial : [Click here](https://rb.gy/zw1tdk)
 
-Telegraph Tutorial : [Click here](http://3c5.com/eDYSv)
+Pm Tutorial : [Click here](https://drive.google.com/file/d/1fOdqZSViNmnsxM1YCKiZ7pUrDCHDIx4U/view?usp=drivesdk)
 
 """
 
