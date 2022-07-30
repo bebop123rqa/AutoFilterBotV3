@@ -28,7 +28,7 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Fiction Bot
     
 ➥ Creator : [𝖇𝖊𝖇𝖔𝖕 ...](
 https://t.me/GINSAAAN)
